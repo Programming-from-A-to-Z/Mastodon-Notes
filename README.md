@@ -2,8 +2,7 @@
 Notes and things related to installing Mastodon at https://choochoo.space
 
 ## Set-Up Guide
-* [Running a Mastodon instance on Ubuntu 16.04 with Docker & nginx](https://github.com/ummjackson/mastodon-guide/blob/master/up-and-running.md)
-   * [(used the instructions re: letsencrypt here](https://www.makeuseof.com/tag/social-network-set-mastodon-instance-linux/)
+* [Running a Mastodon instance on Ubuntu 16.04 with Docker & nginx](https://github.com/ummjackson/mastodon-guide/blob/master/up-and-running.md) - (However, I used [the instructions re: letsencrypt here](https://www.makeuseof.com/tag/social-network-set-mastodon-instance-linux/))
 
 ## Noteable Issues
 * [Issue related to rebooting and wiping database by accident](https://github.com/tootsuite/mastodon/issues/1376)
